@@ -1,4 +1,4 @@
-# my-small-programas
+# my-small-programs
 Pequenos programas variados que estou praticando e implementando!
 #
 
