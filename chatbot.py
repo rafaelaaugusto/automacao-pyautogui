@@ -1,5 +1,4 @@
 import os
-from typing import Optional
 
 def menu():
     os.system('cls')
