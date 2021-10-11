@@ -1,8 +1,7 @@
-# my-small-programs
+# my-small-programas
 Pequenos programas variados que estou praticando e implementando!
 #
 
-- Arquivo:  chatbot
-Um chatbot com questões sobre minha pessoa em código Python.
-
+- Arquivo:  chatbot <br>
+Um chatbot com questões sobre minha pessoa em código Python.<br>
 Link do Mychatbot: https://replit.com/@RafaelaAugusto/MyChatBot#main.py
