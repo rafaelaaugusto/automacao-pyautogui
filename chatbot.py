@@ -25,7 +25,7 @@ def options():
         elif option == 3:
             print(f'{os.linesep}Desenvolvi pequenos projetos: Agenda, Calculadora, ChatBots, Bancos Relacionais, Formulários, Analises de Dados e Automação de Dados. Mas {user}, eu desejo criar: APIs, Paginas web e aplicativos maiores.')
         elif option == 4:
-            print(f'{os.linesep}{user}, Atualmente estou no 2º semestre da minha graduação em Sistemas da Informação, também faço curso de Python no Projeto Mil Devs, Digital Inovation One e aprendo muita coisa com o Youtube também :D')
+            print(f'{os.linesep}{user}, Atualmente estou no 2º semestre da minha graduação em Sistemas da Informação, também faço curso de Python no Projeto Mil Devs, Digital Innovation One e aprendo muita coisa com o Youtube também :D')
         elif option == 5:
             print(f'{os.linesep}Eu moro na Zona Leste de São Paulo {user}, tenho 22 anos!')
         elif option == 6:
@@ -41,3 +41,4 @@ def options():
 print("=" * 60)
 user = str(input(f"Olá, seja bem vinde! Qual é o seu nome? {os.linesep*2}"))
 options()
+
