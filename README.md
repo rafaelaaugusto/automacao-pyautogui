@@ -4,7 +4,7 @@
 Automação de processos de rotina com código Python!
 
   ✅ Abrir gmail <br>
-  ✅ Abrir plataforma da Dio Innovatio One <br>
+  ✅ Abrir plataforma da Dio Innovation One <br>
   ✅ Abrir plataforma da mesttra <br>
   ✅ Abrir Visual Studio Code <br>
 
