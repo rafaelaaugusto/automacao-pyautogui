@@ -1,10 +1,6 @@
-# my-small-programs
-<p> Pequenos programas variados que estou praticando e implementando!<p/>
+# automacao-pyautogui
 
-#
 <div>
-  
-- Arquivo: automacao <br>
 Automação de processos de rotina com código Python!
 
   ✅ Abrir gmail <br>
@@ -18,12 +14,3 @@ Utilizei a biblioteca pyautogui, que executa funções de comandos do teclado.
   Link da publicação no linkedin: https://www.linkedin.com/posts/leia-rafaela_automatizei-minha-rotina-de-estudos-com-o-activity-6856702224840609792-lb-8
   <div/>
  
-  #
-<div>
-  
-- Arquivo:  chatbot <br>
-Um chatbot com questões sobre minha pessoa em código Python.<br>
-Link do Mychatbot: https://replit.com/@RafaelaAugusto/MyChatBot#main.py
-
-  <div/>  
-
